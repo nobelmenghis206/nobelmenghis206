@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nobel Menghis</h1>
 <h3 align="center">A passionate software developer student @University of Washtington</h3>
 
-<img align = “right” alt = “Coding” width = “400” src = “https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazdmZjczYXZsdjhwaWsxYTg0aGE2Z3FjbG9hcG4yaHl6MG1uZGxyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif”>
-
 - 🔭 I’m currently working on [Bankist](https://bankist-nmenghis.netlify.app)
 
 - 🌱 I’m currently learning **React and Node.js**
