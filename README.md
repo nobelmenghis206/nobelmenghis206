@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nobelmenghis206@gmail.com**
 
-- ⚡ Fun fact **I love playing sports and volunteer as a basketball coach for my Local Church.**
+- ⚡ Fun fact **I love playing sports and watching anime during my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
