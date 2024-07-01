@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nobel Menghis</h1>
-<h3 align="center">A passionate software developer student @University of Washtington</h3>
+<h3 align="center">A passionate Infomatics Student @University of Washtington</h3>
 
-- 🔭 I’m currently working on [Bankist](https://bankist-nmenghis.netlify.app)
+- 🔭 I’m currently working on CyberGuard (Machine Learning Cyber Bullying Detection)
 
 - 🌱 I’m currently learning **React and Node.js**
 
